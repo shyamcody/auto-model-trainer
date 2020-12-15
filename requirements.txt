@@ -1,3 +1,4 @@
+lazypredict==0.2.7
 altair==4.1.0
 argon2-cffi==20.1.0
 astor==0.8.1
@@ -31,7 +32,6 @@ jsonschema==3.2.0
 jupyter-client==6.1.7
 jupyter-core==4.7.0
 jupyterlab-pygments==0.1.2
-lazypredict==0.2.7
 lightgbm==3.1.1
 MarkupSafe==1.1.1
 mistune==0.8.4
